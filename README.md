@@ -10,7 +10,6 @@
 ✨ I'm a **Software Developer** passionate about creating impactful web applications.  
 💪 Constantly improving my skills and learning new technologies.  
 🔍 Currently looking for new opportunities to grow professionally.  
-🌱 Focused on **React**, **JavaScript/TypeScript**, and backend integration.
 
 📌 **Check out my portfolio:**  
 ➡️ [https://guillelealportfolio.vercel.app/](https://guillelealportfolio.vercel.app/)
