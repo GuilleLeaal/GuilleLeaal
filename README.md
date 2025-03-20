@@ -12,7 +12,7 @@ I'm a **Software Developer** passionate about technology, continuous learning, a
 Currently seeking new professional opportunities to grow and contribute to impactful projects.
 
 🔗 **Check out my Portfolio:**  
-👉 [](https://guillelealportfolio.vercel.app/)
+👉 [https://tu-dominio-vercel.vercel.app](https://guillelealportfolio.vercel.app/)
 
 ---
 
