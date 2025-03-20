@@ -46,6 +46,7 @@ Currently seeking new professional opportunities to grow and contribute to impac
 | **Food Manager App** | CRUD application for managing foods and logs | React, Redux, Bootstrap |
 | **Web Design Project** | Simple web design project focused on creating a clean, responsive layout using Bootstrap, CSS, and HTML | Bootstrap, CSS, HTML |
 | **Ecommerce & Management System** | Integrated ecommerce site with a management system for a local business, including product catalog and admin dashboard | React, SQL, JS (API), Bootstrap, CSS |
+| **Reservation System** | A basic reservation system for booking tables at different venues | HTML, JavaScript |
 
 📌 *More projects on my repositories... Cooming soon*
 
