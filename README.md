@@ -18,23 +18,23 @@ Currently seeking new professional opportunities to grow and contribute to impac
 
 ### 💻 Technologies & Tools
 <p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-cyan?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-teal?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-cyan?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-teal?style=flat&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCRUM-6DB33F?style=flat&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white"/>
 </p>
 
 ---
