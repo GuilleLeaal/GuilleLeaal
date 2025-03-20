@@ -1,69 +1,83 @@
-<h1 align="center">Hi there 👋, I'm Guillermo Leal</h1>
+<h1 align="center">Hey there! 👋 I'm Guillermo Leal</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-green?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=40&lines=Software+Developer;Technology+Enthusiast;Always+Learning+%F0%9F%9A%80;Building+Projects+with+Passion" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
-I'm a **Software Developer** passionate about technology, continuous learning, and building real-world applications.  
-Currently seeking new professional opportunities to grow and contribute to impactful projects.
+## 🧑‍💻 About Me
+✨ I'm a **Software Developer** passionate about creating impactful web applications.  
+💪 Constantly improving my skills and learning new technologies.  
+🔍 Currently looking for new opportunities to grow professionally.  
+🌱 Focused on **React**, **JavaScript/TypeScript**, and backend integration.
 
-🔗 **Check out my Portfolio:**  
-👉 [https://guillelealportfolio.vercel.app/](https://guillelealportfolio.vercel.app/)
-
----
-
-### 💻 Technologies & Tools
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-cyan?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-teal?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCRUM-6DB33F?style=flat&logo=scrumalliance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white"/>
-</p>
+📌 **Check out my portfolio:**  
+➡️ [https://guillelealportfolio.vercel.app/](https://guillelealportfolio.vercel.app/)
 
 ---
 
-### 📂 Projects Highlights
-| Project | Description | Tech Stack |
-|-------- |------------ |----------- |
-| **Portfolio** | Personal web portfolio deployed on Vercel | React, TailwindCSS, Framer Motion |
-| **Food Manager App** | CRUD application for managing foods and logs | React, Redux, Bootstrap |
-| **Web Design Project** | Simple web design project focused on creating a clean, responsive layout using Bootstrap, CSS, and HTML | Bootstrap, CSS, HTML |
-| **Ecommerce & Management System** | Integrated ecommerce site with a management system for a local business, including product catalog and admin dashboard | React, SQL, JS (API), Bootstrap, CSS |
-| **Reservation System** | A basic reservation system for booking tables at different venues | HTML, JavaScript |
+## 🚀 Tech Stack & Tools
 
-📌 *More projects on my repositories... Cooming soon*
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,java,python,git,github,figma,postgres" />
+</div>
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilleLeaal&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
+💼 **Other skills:**  
+- ✅ RESTful API Integration
+- ✅ SCRUM / Agile Methodologies
+- ✅ Responsive Web Design
+- ✅ Git & Version Control
+- ✅ Deployment on Vercel
 
 ---
 
-### 📫 How to reach me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/guillermo-leal-b4659329b/)
-- 📧 guillermo.leal.9.9.02@gmail.com
-- 🌐 [Portfolio](https://guillelealportfolio.vercel.app/)
+## 🗂️ Featured Projects
+
+| ⭐ Project | 💻 Description | 🛠 Tech Stack |
+| --------- | ------------- | ------------ |
+| **Portfolio Website** | Personal portfolio showcasing my work and skills | React, TailwindCSS, Framer Motion, Vercel |
+| **Food Manager App** | Food logging and management system | React, Redux, Bootstrap |
+| **Web Design Project** | Clean and responsive web design focused on layout | Bootstrap, CSS, HTML |
+| **Ecommerce & Management System** | Ecommerce integrated with management system for a local business | React, SQL, JS (API), Bootstrap, CSS |
+| **Reservation System** | Basic reservation system for booking tables | HTML, JavaScript |
+
+👉 *Explore more in the pinned repositories or my portfolio*
 
 ---
 
-_Thanks for visiting! Let's connect and build something great together 🚀_
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilleLeaal&show_icons=true&theme=github_dark" alt="Guillermo's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilleLeaal&theme=github-dark" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/guillermo-leal-b4659329b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:guillermo.leal.9.9.02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://guillelealportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 📚 Currently Learning
+- **Big Data** concepts and tools
+- Advanced **Python** for data analysis and backend development
+
+---
+
+## 🧠 Fun Fact
+> I believe that **every project, no matter how small, is an opportunity to grow** 💻🚀
+
+---
+
+<p align="center">Thanks for stopping by! 🙌 Feel free to connect and collaborate 🤝</p>
