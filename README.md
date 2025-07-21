@@ -28,6 +28,7 @@
 - ✅ Responsive Web Design
 - ✅ Git & Version Control
 - ✅ Deployment on Vercel
+- ✅ Big Data fundamentals
 
 ---
 
@@ -69,8 +70,7 @@
 ---
 
 ## 📚 Currently Learning
-- **Big Data** concepts and tools
-- Advanced **Python** for data analysis and backend development
+- Final workshop focused on <span className="text-teal-400">GeneXus</span> platform development (as part of the Information Technology Analyst degree)
 
 ---
 
