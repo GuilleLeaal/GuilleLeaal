@@ -34,13 +34,15 @@
 
 ## 🗂️ Featured Projects
 
-| ⭐ Project | 💻 Description | 🛠 Tech Stack |
-| --------- | ------------- | ------------ |
-| **Portfolio Website** | Personal portfolio showcasing my work and skills | React, TailwindCSS, Framer Motion, Vercel |
-| **Food Manager App** | Food logging and management system | React, Redux, Bootstrap |
-| **Web Design Project** | Clean and responsive web design focused on layout | Bootstrap, CSS, HTML |
-| **Ecommerce & Management System** | Ecommerce integrated with management system for a local business | React, SQL, JS (API), Bootstrap, CSS |
-| **Reservation System** | Basic reservation system for booking tables | HTML, JavaScript |
+| ⭐ Project                       | 💻 Description                                                                 | 🛠 Tech Stack                           |
+| ------------------------------ | ----------------------------------------------------------------------------- | -------------------------------------- |
+| **MoneyFlow - Finance Tracker**| Personal finance tracking app with auth, dashboards, reports and dark mode   | React, TypeScript, Node.js, MongoDB    |
+| **Portfolio Website**          | Personal portfolio showcasing my work and skills                              | React, TailwindCSS, Framer Motion, Vercel |
+| **Food Manager App**           | Food logging and management system                                            | React, Redux, Bootstrap                |
+| **Web Design Project**         | Clean and responsive web design focused on layout                             | Bootstrap, CSS, HTML                   |
+| **Ecommerce & Management System** | E-commerce platform with admin panel and inventory management                | React, JavaScript, SQL, Bootstrap, CSS |
+| **Reservation System**         | Basic reservation system for booking tables                                   | HTML, JavaScript                       |
+
 
 👉 *Explore more in the pinned repositories or my portfolio*
 
