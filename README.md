@@ -48,14 +48,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilleLeaal&show_icons=true&theme=github_dark" alt="Guillermo's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilleLeaal&theme=github-dark" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🌐 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/guillermo-leal-b4659329b/" target="_blank">
